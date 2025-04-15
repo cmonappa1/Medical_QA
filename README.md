@@ -1,4 +1,4 @@
-# Medical QA RAG System
+# Medical QA RAG Based System
 
 This project implements a question-answering system using medical QA pairs. It uses sentence-transformer embeddings for retrieval and T5/FLAN-T5 models for generation. The final model supports both retrieval-based and generation-based predictions, with evaluation using Cosine Similarity and ROUGE metrics.
 
